@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duneth Chadeera Kaushalya</h1>
-<h3 align="center">I am looking for a QA internship in Sri Lanka</h3>
+<h3 align="center">I am Software QA Engineer Trainee at Tecxa Pvt Ltd</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxSq5XjOH79ei_zGodVx2OETIps4R6XcGNw&usqp=CAU">
 
 
